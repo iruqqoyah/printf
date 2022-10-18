@@ -1,6 +1,6 @@
 #include "main.h"
 
-int print_string(char * string)
+int putstring(char * string)
 {
 	int i, count = 0;
 
