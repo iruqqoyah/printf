@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * get_size - function to calculate the size 
+ * get_size - function to calculate the size
  * @format: Formatted string in which to print the arguments
- * @i: List of arguments 
+ * @i: List of arguments
  *
  * Return: Precision.
  */
